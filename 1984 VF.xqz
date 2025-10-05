@@ -632,65 +632,65 @@
       </layout>
       <quizparams>
         <QuizFileName>1984  Classe VF</QuizFileName>
-        <QuizDir>D:\Prove Di Ingresso Corrette\1984 5ªF</QuizDir>
+        <QuizDir>G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF</QuizDir>
         <MediaDir>media</MediaDir>
         <QuizNamesList>
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\background.jpg" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\blank.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\close.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\correct.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\glasses.gif" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\hint.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\ko.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\loading.gif" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\logo.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\music.gif" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\next.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\ok.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\prev.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\smile.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\square.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\video.gif" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\images\wrong.png" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\cookie.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\definitions.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\engine.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\login.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\matching.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\navigation.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\results.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\security.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\storage.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\time.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\utility.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\valuation.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\view.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\error.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\lightbox.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\recovery.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\bootoast.min.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\styles\main.css" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\styles\lightbox.css" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\styles\bootoast.min.css" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\styles\font-awesome.min.css" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\fonts\fontawesome-webfont.ttf" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\pages\page.html" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\page.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\index.html" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\pages\results.html" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\pages\final.html" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\page_index.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\page_results.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\scripts\page_final.js" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\styles\layout.css" />
-          <Item Value="D:\Prove Di Ingresso Corrette\1984 5ªF\media\Orwell_1984.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\background.jpg" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\blank.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\close.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\correct.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\glasses.gif" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\hint.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\ko.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\loading.gif" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\logo.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\music.gif" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\next.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\ok.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\prev.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\smile.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\square.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\video.gif" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\images\wrong.png" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\cookie.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\definitions.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\engine.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\login.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\matching.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\navigation.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\results.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\security.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\storage.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\time.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\utility.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\valuation.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\view.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\error.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\lightbox.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\recovery.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\bootoast.min.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\styles\main.css" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\styles\lightbox.css" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\styles\bootoast.min.css" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\styles\font-awesome.min.css" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\fonts\fontawesome-webfont.ttf" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\pages\page.html" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\page.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\index.html" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\pages\results.html" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\pages\final.html" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\page_index.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\page_results.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\scripts\page_final.js" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\styles\layout.css" />
+          <Item Value="G:\Prove Di Ingresso Corrette\Classi Quinte\1984 5ªF\media\Orwell_1984.png" />
           <Item Value="" />
           <Item Value="" />
           <Item Value="" />
         </QuizNamesList>
         <RunAfterMake>True</RunAfterMake>
         <OpenFolderAfterMake>False</OpenFolderAfterMake>
-        <DefLanguageName>Italiano</DefLanguageName>
+        <DefLanguageName>English</DefLanguageName>
         <Filter>
           <Type>0</Type>
           <QstMax>0</QstMax>
@@ -702,7 +702,7 @@
         <ShortcutFileName>index.html</ShortcutFileName>
         <DefCharset>Windows-1252</DefCharset>
         <UseDefCharset>True</UseDefCharset>
-        <AutoPassword>&amp;3L3eS8gsAjbe8xp</AutoPassword>
+        <AutoPassword>HDRVvtq$ptJ+W5cN</AutoPassword>
         <HasSeparator>False</HasSeparator>
         <IsAnswersOnSameLine>False</IsAnswersOnSameLine>
         <UsePHP>False</UsePHP>
